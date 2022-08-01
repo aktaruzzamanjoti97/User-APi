@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "user1@admin.com",
+      "name": "aktaruzzaman",
+      "password": 12345
+    },
+    {
+      "id": 2,
+      "email": "user2@admin.com",
+      "name": "joti",
+      "password": 12312
+    }
+  ],
+  "member": [
+    {
+      "name": "shohan",
+      "email": "shohan@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Abdulla Khan",
+      "email": "abdulla@gmail.com",
+      "id": 2,
+      "error": ""
+    },
+    {
+      "name": "Arafat",
+      "email": "arafat@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "alamin",
+      "email": "alamin@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "shohan",
+      "email": "shohan@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "joti",
+      "email": "joti@gmail.com",
+      "error": "",
+      "id": 8
+    }
+  ],
+  "task": [
+    {
+      "title": "Auth menagement ",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "assign": "abdulla",
+      "id": 1
+    },
+    {
+      "title": "Login systme",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "assign": "shohan",
+      "id": 2
+    },
+    {
+      "title": "Member crud",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "assign": "alamin",
+      "id": 3
+    },
+    {
+      "title": "Banner Design",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "assign": "alamin",
+      "id": 4
+    }
+  ]
+}
